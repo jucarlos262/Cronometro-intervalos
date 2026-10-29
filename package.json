@@ -1,0 +1,19 @@
+{
+  "name": "intervalos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cronómetro de intervalos con avisos sonoros",
+  "scripts": {
+    "sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "8.6.0",
+    "@capacitor/core": "8.6.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "8.6.0",
+    "@fontsource/barlow": "5.3.0",
+    "@fontsource/barlow-condensed": "5.3.0"
+  },
+  "engines": { "node": ">=22" }
+}

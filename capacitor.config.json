@@ -1,0 +1,8 @@
+{
+  "appId": "com.juancarlos.intervalos",
+  "appName": "Intervalos",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
