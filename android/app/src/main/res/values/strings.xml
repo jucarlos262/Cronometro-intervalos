@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Intervalos</string>
+    <string name="title_activity_main">Intervalos</string>
+    <string name="package_name">com.juancarlos.intervalos</string>
+    <string name="custom_url_scheme">com.juancarlos.intervalos</string>
+</resources>
